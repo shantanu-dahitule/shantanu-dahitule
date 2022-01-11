@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shantanu Digambar Dahitule</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> , I'm Shantanu Digambar Dahitule</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Web+Developer;Intrested+To+Code+Anything"></a>
 </p>
