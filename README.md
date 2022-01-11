@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantanu Digambar Dahitule</h1>
-<h3 align="center">Enthusiastic for Machine Learnign and Data Science </h3>
+<p align="center">
+  <a href="https://prasoonsoni.tech/"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Python+Web+Developer;Frontend+Web+Developer"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-dahitule" alt="shantanu-dahitule" /> </p>
 
  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320" />
