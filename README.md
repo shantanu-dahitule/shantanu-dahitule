@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu Digambar Dahitule</h1>
 <p align="center">
-  <a href="https://prasoonsoni.tech/"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Python+Web+Developer;Frontend+Web+Developer"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Python+Web+Developer;Frontend+Web+Developer"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-dahitule" alt="shantanu-dahitule" /> </p>
 
