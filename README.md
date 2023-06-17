@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Graph Neural Network**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shantanu-dahitule](https://github.com/shantanu-dahitule)
+- 👨‍💻 All of my projects are available at [https://github.com/shantanu-dahitule](https://github.com/shantanu-dahitule?tab=repositories)
 
 - 🌱 I’m currently learning **Pytorch, Java, Deep Learning**
 
