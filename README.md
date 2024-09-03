@@ -6,7 +6,7 @@
 
  <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on **Graph Neural Network**
+- 🔭 I’m currently working on **Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shantanu-dahitule](https://github.com/shantanu-dahitule?tab=repositories)
 
