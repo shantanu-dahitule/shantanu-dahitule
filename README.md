@@ -39,5 +39,4 @@
 <h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/shantanu-dahitule-b36709203" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="shantanu dahitule linkdin" height="40" width="40" /></a>
-<a href="https://www.instagram.com/shantanu_dahitule?r=nametag target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="shantanu_dahitule" height="40" width="40" /></a>
 </p>
